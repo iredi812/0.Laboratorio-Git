@@ -23,3 +23,15 @@
 # Cambio a la nueva rama con el comando "git checkout development".
 
 # Realizo cambios en el archivo que he creado introduciendo una etiqueta <p> con el comentario "Este es un laboratorio de Git".
+
+# Añado y hago un commit con los cambios en la rama "development".
+
+# Subo los cambios a Github.
+
+# Vuelvo a la rama main con comando "git checkout main".
+
+# Realizo merge con comando "git merge development".
+
+# Realizo un push con el comando "git push", para subir los cambios al repositorio de GitHub.
+
+# Por último, realizo los puntos que me quedan pendientes en la documentanción del readme y vuelvo a subir los cambios al repositorio.
